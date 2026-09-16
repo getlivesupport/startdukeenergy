@@ -1,298 +1,32 @@
-# HP Printer Support UK
+# Duke Energy Start, Stop & Transfer Service Guide
 
-A fast, responsive and SEO-optimized informational website providing comprehensive guidance for HP printer setup, installation, wireless configuration, driver downloads, troubleshooting and maintenance.
+Live site: https://getlivesupport.github.io/startdukeenergy/
 
-**Live Website**
+This mobile-first, static HTML guide helps readers understand how to start Duke Energy service, stop service when moving out, or transfer service between eligible addresses. It includes a moving checklist, troubleshooting guidance, internal anchor navigation, breadcrumbs, structured data, accessible FAQ accordions, and links to official Duke Energy resources.
 
-https://getlivesupport.github.io/hpprinterguide/
+## Important disclosure
 
----
+This is an independent informational resource and is not affiliated with, endorsed by, or sponsored by Duke Energy. Account-specific requests should be completed through the official Duke Energy website or the contact details shown on a customer bill. The third-party general assistance number displayed on the page is **888-620-0950**.
 
-## Overview
+## SEO and technical implementation
 
-This project is designed as a modern informational resource that helps users understand common HP printer topics including installation, wireless setup, offline printer issues, driver installation, scanner configuration and print quality troubleshooting.
+- Canonical URL and Open Graph/Twitter metadata
+- Article, FAQPage, and breadcrumb-style navigation
+- Mobile-first responsive layout with no horizontal overflow
+- Semantic HTML landmarks, descriptive headings, keyboard-friendly links, and readable contrast
+- Internal anchor links for start, stop, transfer, checklist, problems, and FAQs
+- `robots.txt`, sitemap, and web app manifest configured for this site
+- No external font or JavaScript dependency, helping reduce layout shift and improve loading performance
 
-The website is optimized for:
+## Official references
 
-- User Experience
-- Mobile Devices
-- Search Engines
-- Accessibility
-- Core Web Vitals
-- GitHub Pages
-
----
-
-## Features
-
-✔ Premium Responsive Design
-
-✔ Mobile Friendly Layout
-
-✔ Fast Loading
-
-✔ SEO Optimized
-
-✔ Accessibility Friendly
-
-✔ Structured Heading Hierarchy
-
-✔ Article Schema
-
-✔ Breadcrumb Schema
-
-✔ FAQ Ready
-
-✔ Clean HTML5
-
-✔ Modern CSS
-
-✔ Responsive Cards
-
-✔ SVG Icons
-
-✔ Premium Hero Section
-
-✔ Printer Setup Guide
-
-✔ Troubleshooting Guide
-
-✔ Frequently Asked Questions
-
-✔ Disclaimer
-
----
-
-## Topics Covered
-
-- HP Printer Setup
-
-- HP Printer Installation
-
-- HP Smart App
-
-- Driver Installation
-
-- Wireless Printer Setup
-
-- USB Printer Setup
-
-- Offline Printer Fix
-
-- Scanner Setup
-
-- Printing Problems
-
-- Paper Jam Solutions
-
-- Print Quality Issues
-
-- Maintenance Tips
-
----
-
-## Supported Printer Series
-
-- HP DeskJet
-
-- HP OfficeJet
-
-- HP Envy
-
-- HP LaserJet
-
-- HP Smart Tank
-
----
-
-## SEO Highlights
-
-- Semantic HTML5
-
-- Optimized Metadata
-
-- Canonical URL
-
-- Open Graph Tags
-
-- Twitter Cards
-
-- Structured Data
-
-- Fast Rendering
-
-- Mobile First
-
-- Crawl Friendly
-
-- Internal Heading Structure
-
-- High Readability
-
----
-
-## Technologies
-
-- HTML5
-
-- CSS3
-
-- JSON-LD
-
-- SVG
-
-- Google Fonts
-
-- GitHub Pages
-
----
-
-## Project Structure
-
-```
-hpprinterguide/
-
-│── index.html
-
-│── README.md
-
-│── LICENSE
-
-│── robots.txt
-
-│── sitemap.xml
-
-│── favicon.ico
-
-│── assets/
-
-│      ├── images/
-
-│      ├── icons/
-
-│      └── css/
-
-```
-
----
-
-
----
-
-## Browser Support
-
-- Google Chrome
-
-- Microsoft Edge
-
-- Mozilla Firefox
-
-- Safari
-
-- Opera
-
-- Brave
-
----
-
-## Responsive Design
-
-Optimized for
-
-- Desktop
-
-- Laptop
-
-- Tablet
-
-- Mobile
-
----
-
-## Accessibility
-
-The website follows accessibility best practices including:
-
-- Proper heading hierarchy
-
-- Main landmark
-
-- Responsive touch targets
-
-- Keyboard friendly navigation
-
-- Improved color contrast
-
-- Readable typography
-
----
-
-## Performance Optimization
-
-- Optimized HTML
-
-- Minimal CSS
-
-- Lazy rendering friendly
-
-- Responsive layout
-
-- Lightweight SVG graphics
-
-- Optimized images
-
-- Reduced layout shifts
-
----
-
-## Disclaimer
-
-This project is intended for informational and educational purposes only.
-
-It is not affiliated with, endorsed by or sponsored by HP Inc.
-
-All trademarks, logos and product names belong to their respective owners.
-
----
+- [Duke Energy Start, Stop & Move](https://www.duke-energy.com/home/start-stop-move)
+- [Duke Energy Customer Service](https://www.duke-energy.com/customer-service/home)
 
 ## Deployment
 
-GitHub Pages
-
-```
-https://getlivesupport.github.io/hpprinterguide/
-```
-
----
-
-## Repository
-
-```
-https://github.com/getlivesupport/hpprinterguide
-```
-
----
+The site is designed for GitHub Pages and is published from the `main` branch at the live URL above.
 
 ## License
 
-MIT License
-
----
-
-## Contributing
-
-Contributions, suggestions and improvements are welcome.
-
-Please open an Issue or submit a Pull Request.
-
----
-
-## Author
-
-HP Printer Guide UK
-
----
-
-### Last Updated
-
-July 2026
+The repository remains available under the MIT License. Duke Energy names and marks belong to their respective owners.

@@ -1,9 +1,6 @@
 User-agent: *
-
 Allow: /
-
 Disallow: /404.html
 
-Sitemap: https://getlivesupport.github.io/hpprinterguide/sitemap.xml
-
+Sitemap: https://getlivesupport.github.io/startdukeenergy/sitemap.xml
 Host: getlivesupport.github.io

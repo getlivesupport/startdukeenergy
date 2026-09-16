@@ -1,35 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<url>
-<loc>https://getlivesupport.github.io/hpprinterguide/</loc>
-<lastmod>2026-07-20</lastmod>
-<changefreq>weekly</changefreq>
-<priority>1.0</priority>
-</url>
-
-<url><loc>https://getlivesupport.github.io/hpprinterguide/london/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/birmingham/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/manchester/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/leeds/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/liverpool/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/sheffield/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/bristol/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/newcastle-upon-tyne/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/nottingham/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/leicester/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/coventry/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/southampton/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/portsmouth/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/glasgow/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/edinburgh/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/aberdeen/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/cardiff/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/swansea/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/belfast/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/derry/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/oxford/</loc></url>
-<url><loc>https://getlivesupport.github.io/hpprinterguide/cambridge/</loc></url>
-
+  <url>
+    <loc>https://getlivesupport.github.io/startdukeenergy/</loc>
+    <lastmod>2026-09-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
